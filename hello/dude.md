@@ -26,6 +26,7 @@ asdasdass
 
 {% embed url="https://www.youtube.com/watch?v=xWBP4lzkoyM" caption="Caption for video" %}
 
-  
+What if we just included the url:
+[https://www.youtube.com/watch?v=xWBP4lzkoyM](https://www.youtube.com/watch?v=xWBP4lzkoyM)
 
 
